@@ -1,4 +1,4 @@
-# Clssification-of-tiktok-videos-either-as-claim-or-opinion
+# Classification-of-tiktok-videos-either-as-claim-or-opinion
 Overview:
      The aim of this project was to create a predictive model distinguishing between claim-based and opinion-based TikTok videos. After constructing and assessing both XGBoost and random forest models, the final random forest model consistently demonstrated high precision, recall, and f-1 scores. This model effectively identified crucial features for differentiating claims from opinion-based videos. Notably, user engagement metrics—such as views, likes, shares, and downloads—emerged as the most influential features in predicting the claim status of TikTok videos.
      
